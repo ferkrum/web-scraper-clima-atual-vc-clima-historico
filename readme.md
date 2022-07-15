@@ -12,6 +12,7 @@ URL2 = 'https://pt.climate-data.org/america-do-sul/brasil/rio-grande-do-sul/sant
 
 
 Linguagem: Python
+
 _libs: requests; Beautifulsoup, datetime, pytz timezone_
 
 Desenvolvido no Google Colaboratory. Para acessar clique [aqui](https://github.com/ferkrum/web-scraper-clima-atual-vc-clima-historico/blob/main/Web_Scraper_Clima_Atual_vs_Clima_Hist%C3%B3rico.ipynb). 
